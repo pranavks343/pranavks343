@@ -73,9 +73,9 @@ My obsession is **engineering rigor at the bleeding edge**: clean architecture, 
 
 <br>
 
-<img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/IBM_Q_system_%28Fraunhofer_IAF%29.jpg/640px-IBM_Q_system_%28Fraunhofer_IAF%29.jpg" width="100%" alt="IBM Quantum Computer"/>
 
-<sub>*"There are 10 types of people:<br>those who understand superposition,<br>and those who don't... and both."*</sub>
+<sub>*IBM Quantum System — the dilution refrigerator that<br>cools qubits to 15 millikelvin, colder than deep space.*</sub>
 
 </td>
 </tr>
