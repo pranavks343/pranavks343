@@ -3,99 +3,11 @@
 <!-- ║  Quantum × AI Engineer                                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
-
 <div align="center">
 
-<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kondapi Sri Pranav — Quantum × AI Engineer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"  stop-color="#03050C"/>
-      <stop offset="55%" stop-color="#080F22"/>
-      <stop offset="100%" stop-color="#0A1228"/>
-    </linearGradient>
-    <radialGradient id="halo" cx="0.78" cy="0.5" r="0.45">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.5"/>
-      <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#03050C" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="22%" stop-color="#22D3EE" stop-opacity="1"/>
-      <stop offset="55%" stop-color="#7C3AED" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#A78BFA" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#22D3EE" stroke-width="0.4" opacity="0.10"/>
-    </pattern>
-    <style><![CDATA[
-      .nm   { font: 700 64px ui-monospace, 'JetBrains Mono', monospace; fill: #ffffff; letter-spacing: 0.04em; }
-      .role { font: 500 13px ui-monospace, 'JetBrains Mono', monospace; fill: #22D3EE; letter-spacing: 0.42em; }
-      .kick { font: 500 11px ui-monospace, 'JetBrains Mono', monospace; fill: #A78BFA; letter-spacing: 0.42em; }
-      .meta { font: 400 11px ui-monospace, 'JetBrains Mono', monospace; fill: #94A3B8; letter-spacing: 0.18em; }
-      .tag  { font: 400 13px ui-monospace, 'JetBrains Mono', monospace; fill: #cbd5e1; }
-      .gate { font: 700 11px ui-monospace, 'JetBrains Mono', monospace; fill: #ffffff; }
-      .qbit { font: 500 11px ui-monospace, 'JetBrains Mono', monospace; fill: #22D3EE; }
-      @keyframes pulse { 0%,100% { opacity: 0.3 } 50% { opacity: 1 } }
-      .p1 { animation: pulse 2.4s ease-in-out infinite }
-      .p2 { animation: pulse 2.4s ease-in-out 0.6s infinite }
-      .p3 { animation: pulse 2.4s ease-in-out 1.2s infinite }
-    ]]></style>
-  </defs>
-  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="14" fill="url(#grid)"/>
-  <circle cx="940" cy="150" r="260" fill="url(#halo)"/>
-  <g stroke="#22D3EE" stroke-width="1" opacity="0.5">
-    <path d="M22 22 L46 22 M22 22 L22 46"/>
-    <path d="M1178 22 L1154 22 M1178 22 L1178 46"/>
-    <path d="M22 278 L46 278 M22 278 L22 254"/>
-    <path d="M1178 278 L1154 278 M1178 278 L1178 254"/>
-  </g>
-  <text x="50" y="44" class="kick">QUANTUM × AI · MMXXVI</text>
-  <text x="1150" y="44" class="meta" text-anchor="end">VIJAYAWADA · IN</text>
-  <!-- circuit, right side -->
-  <g transform="translate(720,100)">
-    <text x="-6" y="22" class="qbit" text-anchor="end">q₀</text>
-    <text x="-6" y="62" class="qbit" text-anchor="end">q₁</text>
-    <text x="-6" y="102" class="qbit" text-anchor="end">q₂</text>
-    <line x1="0"  y1="20"  x2="430" y2="20"  stroke="url(#wire)" stroke-width="1.4"/>
-    <line x1="0"  y1="60"  x2="430" y2="60"  stroke="url(#wire)" stroke-width="1.4"/>
-    <line x1="0"  y1="100" x2="430" y2="100" stroke="url(#wire)" stroke-width="1.4"/>
-    <rect x="20" y="6" width="26" height="28" rx="3" fill="#22D3EE"/>
-    <text x="33" y="24" class="gate" text-anchor="middle" fill="#03050C">H</text>
-    <circle cx="80" cy="20" r="4" fill="#A78BFA" class="p1"/>
-    <line x1="80" y1="20" x2="80" y2="60" stroke="#A78BFA" stroke-width="1.4"/>
-    <circle cx="80" cy="60" r="9" fill="none" stroke="#A78BFA" stroke-width="1.4"/>
-    <line x1="71" y1="60" x2="89" y2="60" stroke="#A78BFA" stroke-width="1.4"/>
-    <line x1="80" y1="51" x2="80" y2="69" stroke="#A78BFA" stroke-width="1.4"/>
-    <rect x="120" y="46" width="40" height="28" rx="3" fill="#7C3AED"/>
-    <text x="140" y="64" class="gate" text-anchor="middle">RY(θ)</text>
-    <rect x="190" y="6" width="40" height="28" rx="3" fill="#22D3EE"/>
-    <text x="210" y="24" class="gate" text-anchor="middle" fill="#03050C">RZ(φ)</text>
-    <rect x="120" y="86" width="34" height="28" rx="3" fill="#A78BFA"/>
-    <text x="137" y="104" class="gate" text-anchor="middle" fill="#03050C">U₃</text>
-    <circle cx="260" cy="60" r="4" fill="#A78BFA" class="p2"/>
-    <line x1="260" y1="60" x2="260" y2="100" stroke="#A78BFA" stroke-width="1.4"/>
-    <circle cx="260" cy="100" r="9" fill="none" stroke="#A78BFA" stroke-width="1.4"/>
-    <line x1="251" y1="100" x2="269" y2="100" stroke="#A78BFA" stroke-width="1.4"/>
-    <line x1="260" y1="91" x2="260" y2="109" stroke="#A78BFA" stroke-width="1.4"/>
-    <rect x="300" y="6"  width="38" height="28" rx="3" fill="#22D3EE"/>
-    <text x="319" y="24" class="gate" text-anchor="middle" fill="#03050C">RZZ</text>
-    <rect x="300" y="86" width="38" height="28" rx="3" fill="#22D3EE"/>
-    <text x="319" y="104" class="gate" text-anchor="middle" fill="#03050C">RZZ</text>
-    <line x1="319" y1="34" x2="319" y2="86" stroke="#22D3EE" stroke-width="1" stroke-dasharray="3,2" opacity="0.55" class="p3"/>
-    <g transform="translate(380,6)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
-    <g transform="translate(380,46)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
-    <g transform="translate(380,86)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
-    <text x="215" y="138" class="meta" text-anchor="middle">VARIATIONAL · HYBRID · HARDWARE-VALIDATED</text>
-  </g>
-  <text x="50" y="124" class="role">QUANTUM × AI ENGINEER</text>
-  <text x="50" y="194" class="nm">PRANAV</text>
-  <text x="50" y="226" class="tag">Kondapi Sri Pranav</text>
-  <line x1="50" y1="244" x2="220" y2="244" stroke="#22D3EE" stroke-width="2"/>
-  <text x="50" y="270" class="meta">|ψ⟩ = α|0⟩ + β|1⟩  ·  SHIPS CODE</text>
-</svg>
+<a href="https://github.com/pranavks343">
+  <img src="./assets/hero.svg" alt="Kondapi Sri Pranav — Quantum × AI Engineer" width="100%"/>
+</a>
 
 <a href="https://github.com/pranavks343">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=40&lines=Engineering+the+quantum%E2%80%93AI+frontier;Hybrid+circuits.+Production+systems.+Real+hardware.;Built+for+research+depth+and+shipping+velocity" alt="Tagline"/>
