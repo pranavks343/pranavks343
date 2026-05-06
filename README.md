@@ -73,9 +73,9 @@ My obsession is **engineering rigor at the bleeding edge**: clean architecture, 
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/IBM_Q_system_%28Fraunhofer_IAF%29.jpg/640px-IBM_Q_system_%28Fraunhofer_IAF%29.jpg" width="100%" alt="IBM Quantum Computer"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IBM_Quantum_System_One.jpg/480px-IBM_Quantum_System_One.jpg" width="100%" alt="IBM Quantum System One"/>
 
-<sub>*IBM Quantum System — the dilution refrigerator that<br>cools qubits to 15 millikelvin, colder than deep space.*</sub>
+<sub>*IBM Quantum System One — the dilution refrigerator that<br>cools qubits to 15 millikelvin, colder than deep space.*</sub>
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ My obsession is **engineering rigor at the bleeding edge**: clean architecture, 
 
 ### ⚛️ Quantum Engineering
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/IBM_Q_system_%28Fraunhofer_IAF%29.jpg/320px-IBM_Q_system_%28Fraunhofer_IAF%29.jpg" width="120"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IBM_Quantum_System_One.jpg/240px-IBM_Quantum_System_One.jpg" width="120"/>
 
 Building real applications on real hardware — QAOA, VQE, quantum networking, error mitigation, and hybrid pipelines validated on IBM Quantum systems.
 
