@@ -7,19 +7,17 @@
 
 <div align="center">
 
-<!-- ══════════════════════════════ HERO BANNER ══════════════════════════════ -->
+<!-- ══════════════════════════════ HERO (custom SVG) ══════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03050C,40:111827,75:1E1B4B,100:22D3EE&text=Kondapi%20Sri%20Pranav&fontColor=E5F9FF&fontSize=58&fontAlignY=38&desc=Quantum%20Computing%20%C3%97%20Agentic%20AI%20%C3%97%20Production%20Systems&descAlignY=60&descSize=18&animation=fadeIn"
-  width="100%"
-  alt="Kondapi Sri Pranav — Quantum Computing × Agentic AI × Production Systems"
-/>
+<a href="https://pranavks.co.in">
+  <img src="./assets/hero.svg" width="100%" alt="Kondapi Sri Pranav — Quantum Computing × Agentic AI × Production Systems"/>
+</a>
 
 <!-- ══════════════════════════════ TYPING TAGLINE ══════════════════════════════ -->
 
 <a href="https://github.com/pranavks343">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=940&height=60&lines=I+build+hybrid+quantum-classical+systems.;I+ship+agentic+AI+with+real+tooling.;Research+depth+%2B+production+execution.;Engineered+to+ship.+Designed+to+last."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=940&height=60&lines=I+build+hybrid+quantum-classical+systems.;I+ship+agentic+AI+with+real+tooling.;Research+depth+%2B+production+execution.;Engineered+to+ship.+Designed+to+last."
     alt="What I build"
   />
 </a>
@@ -36,26 +34,33 @@
 
 <!-- ══════════════════════════════ PRIMARY CTAs ══════════════════════════════ -->
 
-<a href="https://pranavks.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-pranavks.co.in-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=03050C" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/pranav-ks-95342327b">
-  <img src="https://img.shields.io/badge/LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:kondapisripranav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kondapisripranav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/pranavks343">
-  <img src="https://img.shields.io/badge/GitHub-pranavks343-03050C?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
-</a>
+<a href="https://pranavks.co.in"><img src="https://img.shields.io/badge/🌐%20Portfolio-pranavks.co.in-22D3EE?style=for-the-badge&labelColor=03050C" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/💼%20LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&labelColor=03050C" alt="LinkedIn"/></a>
+<a href="mailto:kondapisripranav@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Reach%20me-EA4335?style=for-the-badge&labelColor=03050C" alt="Email"/></a>
+<a href="https://github.com/pranavks343"><img src="https://img.shields.io/badge/⭐%20GitHub-pranavks343-A78BFA?style=for-the-badge&labelColor=03050C" alt="GitHub"/></a>
 
 </div>
 
 <br/>
 
+<!-- ══════════════════════════════ 30-SECOND PITCH ══════════════════════════════ -->
+
+<div align="center">
+
+> **The 30-second version** &nbsp;·&nbsp; I'm a quantum-computing × AI engineer who ships. I formulate real problems as **QUBO/Ising**, run them on **Qiskit**, wire **agentic AI** around them with **LangGraph**, and put it all behind a **FastAPI + Next.js** product surface — tested, dockerized, observable. *Research-grade ideas. Production-grade execution.*
+
+</div>
+
+<br/>
+
+<!-- gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
+
+<br/>
+
 <!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></picture> &nbsp;Hello, I'm Pranav.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />&nbsp; Hello, I'm Pranav.
 
 <table>
 <tr>
@@ -71,12 +76,14 @@ I obsess over three things:
 
 > *"Research depth. Clean architecture. Shipping velocity."*
 
-📍 &nbsp;Vijayawada, India &nbsp;·&nbsp; 🌐 &nbsp;[pranavks.co.in](https://pranavks.co.in) &nbsp;·&nbsp; 💬 &nbsp;Always open to **research collabs**, **internships**, and **hard problems**.
+📍 &nbsp;Vijayawada, India &nbsp;·&nbsp; 🌐 &nbsp;[pranavks.co.in](https://pranavks.co.in) &nbsp;·&nbsp; 💬 &nbsp;Open to **research collabs**, **internships**, and **hard problems**.
 
 </td>
 <td width="38%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+
+<sub><i>Building at the edge of physics, math, and code.</i></sub>
 
 </td>
 </tr>
@@ -84,7 +91,7 @@ I obsess over three things:
 
 <br/>
 
-<!-- ══════════════════════════════ WHO I AM (CODE) ══════════════════════════════ -->
+<!-- ══════════════════════════════ WHOAMI ══════════════════════════════ -->
 
 ## ⚡ &nbsp;`whoami`
 
@@ -109,12 +116,22 @@ class KondapiSriPranav:
     def looking_for(self) -> list[str]:
         return ["Quantum / AI research roles",
                 "Applied scientist + engineer hybrids",
-                "Teams who value rigor and execution equally"]
+                "Teams that value rigor and execution equally"]
+
+    def coffee_to_code(self) -> str:
+        return "espresso ⇒ commits"
 ```
 
 <br/>
 
-<!-- ══════════════════════════════ ENGINEERING MAP ══════════════════════════════ -->
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════ ENGINEERING MAP (custom SVGs) ══════════════════════════════ -->
 
 ## 🧭 &nbsp;Engineering Map
 
@@ -122,8 +139,10 @@ class KondapiSriPranav:
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/Quantum.svg" width="100%" alt="Quantum Computing"/>
+
 ### ⚛️ &nbsp;Quantum Computing
-Hybrid quantum–classical workflows from theory to runtime.
+Hybrid quantum-classical workflows from theory to runtime.
 
 - QUBO / Ising problem **formulation**
 - **QAOA** & variational algorithms
@@ -133,6 +152,8 @@ Hybrid quantum–classical workflows from theory to runtime.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/Ai.svg" width="100%" alt="Agentic AI Systems"/>
 
 ### 🧠 &nbsp;Agentic AI Systems
 AI that uses tools, memory, and retrieval — with eval baked in.
@@ -148,6 +169,8 @@ AI that uses tools, memory, and retrieval — with eval baked in.
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/devops.svg" width="100%" alt="Backend & Infrastructure"/>
+
 ### 🏗️ &nbsp;Backend & Infrastructure
 Systems that are clean, testable, and deployable on day one.
 
@@ -159,6 +182,8 @@ Systems that are clean, testable, and deployable on day one.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/fullstack.svg" width="100%" alt="Full-Stack Products"/>
 
 ### 🎨 &nbsp;Full-Stack Products
 Beautiful interfaces around hard, complex systems.
@@ -175,6 +200,13 @@ Beautiful interfaces around hard, complex systems.
 
 <br/>
 
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
+</div>
+
+<br/>
+
 <!-- ══════════════════════════════ FEATURED BUILDS ══════════════════════════════ -->
 
 ## 🚀 &nbsp;Featured Builds
@@ -184,7 +216,7 @@ Beautiful interfaces around hard, complex systems.
 <td width="50%" valign="top">
 
 ### ⚛️ &nbsp;Agentic Quantum Optimization Copilot
-A hybrid quantum–classical platform that converts real-world optimization problems into **QUBO / Ising** formulations, selects solvers, runs experiments, and benchmarks classical vs quantum results.
+A hybrid quantum-classical platform that converts real-world optimization problems into **QUBO / Ising** formulations, selects solvers, runs experiments, and benchmarks classical vs quantum results.
 
 `QUBO` &nbsp;`Ising` &nbsp;`QAOA` &nbsp;`Qiskit` &nbsp;`LangGraph` &nbsp;`FastAPI`
 
@@ -224,6 +256,42 @@ Document intelligence with **hybrid retrieval, reranking, citations, and answer 
   <img src="https://img.shields.io/badge/→%20Explore%20All%20Repositories-03050C?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=03050C" alt="All repos"/>
 </a>
 
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════ NOW SHIPPING ══════════════════════════════ -->
+
+## 📡 &nbsp;Currently
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### 🛠️ &nbsp;Shipping
+Hybrid solver benchmarks, agent-evaluation harness, optimization copilot v2.
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 &nbsp;Reading
+QAOA depth–accuracy trade-offs, MCP tool-spec patterns, eval-driven LLM systems.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 &nbsp;Exploring
+Error mitigation, structured generation, cost-aware agent routing.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
 </div>
 
 <br/>
@@ -270,9 +338,9 @@ Document intelligence with **hybrid retrieval, reranking, citations, and answer 
 
 <br/>
 
-<!-- ══════════════════════════════ FOCUS MINDMAP ══════════════════════════════ -->
+<!-- ══════════════════════════════ MINDMAP ══════════════════════════════ -->
 
-## 📌 &nbsp;Current Focus
+## 📌 &nbsp;Focus Areas
 
 ```mermaid
 mindmap
@@ -301,6 +369,13 @@ mindmap
       Optimization
       Knowledge Systems
 ```
+
+<br/>
+
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
+</div>
 
 <br/>
 
@@ -342,6 +417,24 @@ mindmap
   alt="Contribution graph"
 />
 
+<!--
+  ↳ Optional: enable the contribution-snake animation by adding the
+    Platane/snk GitHub Action and uncommenting this block.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg" width="96%"/>
+</picture>
+-->
+
+</div>
+
+<br/>
+
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
 </div>
 
 <br/>
@@ -385,6 +478,13 @@ I think in **architecture, trade-offs, evaluation, failure modes**, and long-ter
 
 <br/>
 
+<!-- gradient divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt=""/>
+</div>
+
+<br/>
+
 <!-- ══════════════════════════════ CONNECT ══════════════════════════════ -->
 
 ## 📬 &nbsp;Let's Build Something Worth Shipping
@@ -394,24 +494,16 @@ I think in **architecture, trade-offs, evaluation, failure modes**, and long-ter
 <table>
 <tr>
 <td align="center">
-  <a href="https://pranavks.co.in">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-pranavks.co.in-22D3EE?style=for-the-badge&labelColor=03050C" alt="Portfolio"/>
-  </a>
+  <a href="https://pranavks.co.in"><img src="https://img.shields.io/badge/🌐%20Portfolio-pranavks.co.in-22D3EE?style=for-the-badge&labelColor=03050C" alt="Portfolio"/></a>
 </td>
 <td align="center">
-  <a href="https://www.linkedin.com/in/pranav-ks-95342327b">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&labelColor=03050C" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/💼%20LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&labelColor=03050C" alt="LinkedIn"/></a>
 </td>
 <td align="center">
-  <a href="mailto:kondapisripranav@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-kondapisripranav%40gmail.com-EA4335?style=for-the-badge&labelColor=03050C" alt="Email"/>
-  </a>
+  <a href="mailto:kondapisripranav@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-kondapisripranav%40gmail.com-EA4335?style=for-the-badge&labelColor=03050C" alt="Email"/></a>
 </td>
 <td align="center">
-  <a href="https://github.com/pranavks343">
-    <img src="https://img.shields.io/badge/⭐%20GitHub-pranavks343-A78BFA?style=for-the-badge&labelColor=03050C" alt="GitHub"/>
-  </a>
+  <a href="https://github.com/pranavks343"><img src="https://img.shields.io/badge/⭐%20GitHub-pranavks343-A78BFA?style=for-the-badge&labelColor=03050C" alt="GitHub"/></a>
 </td>
 </tr>
 </table>
