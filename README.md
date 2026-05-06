@@ -1,135 +1,301 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranav%20K.S.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quantum%20%E2%9A%9B%EF%B8%8F%20%2B%20AI%20%F0%9F%A4%96%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    PRANAV K.S. — GITHUB PROFILE                     -->
+<!--                    Quantum × AI Engineer                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ ANIMATED HERO BANNER ░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Quantum+Software+Engineer+%E2%9A%9B%EF%B8%8F;Generative+AI+Architect+%F0%9F%A4%96;Agentic+System+Builder+%F0%9F%A7%A0;Bridging+Qubits+and+Intelligence+%E2%9C%A8" />
-  </a>
+
+```
+
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=PRANAV%20K.S.&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=PRANAV%20K.S.&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Banner"/>
+</picture>
+
+<!-- Typing effect -->
+<a href="https://github.com/pranavks343">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=820&height=45&lines=Engineering+the+future+at+the+edge+of+quantum+%26+intelligence;Building+production-grade+systems+from+qubits+to+APIs;IBM+Certified+%E2%80%A2+MLOps+Certified+%E2%80%A2+Always+shipping" alt="Typing"/>
+</a>
+
+<br><br>
+
+<!-- Stat ribbon -->
+<a href="https://github.com/pranavks343"><img src="https://komarev.com/ghpvc/?username=pranavks343&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/github/followers/pranavks343?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/github/stars/pranavks343?label=TOTAL+STARS&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github"/>
+
+<br><br>
+
+<!-- Connect -->
+<a href="https://pranavks.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-pranavks.co.in-00d9ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:kondapisripranav@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+
 </div>
 
 <br>
 
-<!-- Profile Views + Followers + Stars -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavks343&label=Profile%20views&color=00d9ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pranavks343?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/pranavks343?label=Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
-</div>
+<!-- ░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <samp>◢◤ <kbd>WHO AM I</kbd> ◢◤</samp>
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 <br>
 
-<!-- Connect Buttons -->
+I operate at the **frontier where quantum mechanics meets applied intelligence** — building systems that don't just work in notebooks, but ship to production and run on real hardware.
+
+My obsession is **engineering rigor at the bleeding edge**: clean architecture, reproducible experiments, hardware-validated results, and code that survives outside a Jupyter cell.
+
+```diff
++ Quantum applications across optimization, networking, and ML
++ Agentic AI architectures with hybrid quantum-classical compute
++ End-to-end MLOps — from data pipelines to production inference
++ Research-grade work, product-grade execution
+```
+
+**🏆 Credentials**
+- 🧪 IBM Certified Associate Developer — **Quantum Computation using Qiskit v2.X**
+- 📜 Certified in **MLOps** — production ML lifecycle, CI/CD, monitoring
+- 🎓 B.Tech CSE @ KL University · CGPA **9.22 / 10** · Batch 2023–2027
+
+<br>
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<br>
+
+<img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="100%"/>
+
+<sub>*"There are 10 types of people:<br>those who understand superposition,<br>and those who don't... and both."*</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ FOCUS AREAS ░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <samp>◢◤ <kbd>FOCUS AREAS</kbd> ◢◤</samp>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ⚛️ Quantum Engineering
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+
+Building real applications on real hardware — QAOA, VQE, quantum networking, error mitigation, and hybrid pipelines validated on IBM Quantum systems.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤖 Agentic AI
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+Designing multi-agent systems with LangGraph, MCP, and tool-augmented reasoning — production RAG, evaluation harnesses, and autonomous workflows.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 MLOps & Systems
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+
+Shipping models like software — reproducible training, containerized inference, observability, and CI/CD for ML systems that don't break at 3 AM.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <samp>◢◤ <kbd>TECH ARSENAL</kbd> ◢◤</samp>
+
 <div align="center">
-  <a href="https://pranavks.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00d9ff" /></a>
-  <a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kondapisripranav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">⚛️ Quantum Computing</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PennyLane-00B4A6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyQUBO-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/D--Wave-008272?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenQASM-FF6B35?style=for-the-badge"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<h3 align="center">🤖 AI / ML</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">⚙️ Backend & Infra</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<h3 align="center">🚢 DevOps & MLOps</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<!-- ░░░░░░░░░░░░░░░░░░░░░ GITHUB ANALYTICS ░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-I live at the intersection of **quantum computing** and **applied AI** — fascinated by how the strange rules of quantum mechanics can solve problems classical machines can't.
-
-⚛️ I build **quantum applications** end-to-end — from theory to running on real IBM hardware  
-🤖 I design **agentic AI systems** and **hybrid quantum-classical pipelines**  
-🛠️ I care about **engineering rigor** — clean architecture, reproducibility, production-grade systems  
-🧪 **IBM Certified Associate Developer** — Quantum Computation using Qiskit v2.X  
-📜 **MLOps Certified** — bringing production discipline to ML  
-🎯 My mission: **bridge frontier research and real-world impact**
-
-<br clear="right"/>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Arsenal
+## <samp>◢◤ <kbd>GITHUB ANALYTICS</kbd> ◢◤</samp>
 
 <div align="center">
 
-**⚛️ Quantum Computing**  
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00B4A6?style=for-the-badge&logoColor=white)
-![PyQUBO](https://img.shields.io/badge/PyQUBO-1E88E5?style=for-the-badge&logoColor=white)
-![D-Wave](https://img.shields.io/badge/D--Wave-008272?style=for-the-badge&logoColor=white)
+<a href="https://github.com/pranavks343">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavks343&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavks343&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-**🤖 AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br>
 
-**⚙️ Backend & Infra**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=pranavks343&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" height="180"/>
 
-**🎨 Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<br><br>
+
+<!-- Trophy showcase -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavks343&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Analytics
+<!-- ░░░░░░░░░░░░░░░░░░░░░ CONTRIBUTION GRAPH ░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <samp>◢◤ <kbd>CONTRIBUTION ACTIVITY</kbd> ◢◤</samp>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavks343&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavks343&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavks343&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavks343&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20Days" width="100%"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavks343&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
+<br><br>
 
----
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg">
+  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg">
+</picture>
 
-## <img src="https://media.giphy.com/media/W5ftUQUGqyOOgUFCf2/giphy.gif" width="32"> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavks343&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true" />
-</div>
-
-<!-- Snake animation - requires GitHub Action setup -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> What I'm Up To
+<!-- ░░░░░░░░░░░░░░░░░░░░░ DEV CARD ░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <samp>◢◤ <kbd>DEV CARD</kbd> ◢◤</samp>
 
 ```python
-class Pranav:
-    def __init__(self):
-        self.role        = "Quantum + AI Engineer"
-        self.location    = "Vijayawada, India 🇮🇳"
-        self.education   = "B.Tech CSE @ KL University (CGPA 9.22)"
-        self.currently   = ["Quantum apps", "Agentic AI", "MLOps pipelines"]
-        self.philosophy  = "Build with rigor. Ship with impact."
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build the future ⚡")
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   class Pranav:                                                  ║
+║       """The intersection of quantum and intelligence."""        ║
+║                                                                  ║
+║       identity = {                                               ║
+║           "role"     : "Quantum × AI Engineer",                  ║
+║           "based_in" : "Vijayawada, India 🇮🇳",                  ║
+║           "edu"      : "B.Tech CSE — KL University (9.22/10)",   ║
+║       }                                                          ║
+║                                                                  ║
+║       certifications = [                                         ║
+║           "IBM Quantum Developer (Qiskit v2.X)",                 ║
+║           "MLOps Certified",                                     ║
+║       ]                                                          ║
+║                                                                  ║
+║       currently = {                                              ║
+║           "shipping"  : ["quantum apps", "agentic systems"],     ║
+║           "exploring" : ["QML", "distributed ML", "QPUs"],       ║
+║           "ethos"     : "Build with rigor. Ship with impact.",   ║
+║       }                                                          ║
+║                                                                  ║
+║       def collaborate(self):                                     ║
+║           return "Open to research, internships, and bold ideas" ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
+<!-- ░░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <i>⭐ <b>If you like what you see, drop a star — it fuels the next experiment.</b> ⭐</i>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&text=Let%27s%20build%20the%20future%20%E2%9A%A1&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
+
+<sub>⭐ <b>If something here sparked an idea — drop a star. It fuels the next experiment.</b></sub>
+
+<br>
+
+<sub>Crafted with ☕ and superposition · © 2026 Pranav K.S.</sub>
+
 </div>
