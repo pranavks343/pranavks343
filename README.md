@@ -383,6 +383,7 @@ mindmap
       CI/CD
     Applied Domains
       Finance
+      Healthcare Routing
       Optimization
       Knowledge Systems
 ```
