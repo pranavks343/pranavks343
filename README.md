@@ -3,6 +3,8 @@
 <!-- ║  Quantum × AI Engineer                                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+
 <div align="center">
 
 <a href="https://github.com/pranavks343">
@@ -10,8 +12,14 @@
 </a>
 
 <a href="https://github.com/pranavks343">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=40&lines=Engineering+the+quantum%E2%80%93AI+frontier;Hybrid+circuits.+Production+systems.+Real+hardware.;Built+for+research+depth+and+shipping+velocity" alt="Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=50&lines=Engineering+the+quantum%E2%80%93AI+frontier;Hybrid+circuits.+Production+systems.+Real+hardware.;%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7C0%E2%9F%A9+%2B+%CE%B2%7C1%E2%9F%A9+%C2%B7+ships+code" alt="Tagline"/>
 </a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pranavks343&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/pranavks343?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=03050C" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/pranavks343?label=STARS&style=for-the-badge&color=A78BFA&labelColor=03050C" alt="Stars"/>
 
 </div>
 
@@ -19,11 +27,37 @@
 
 ## ▌  Intro
 
-Engineer working at the intersection of quantum computing, generative AI, and production software. I build hybrid quantum-classical systems that run on real QPUs, agentic LLM architectures that survive evals, and the infrastructure that ships them. Research depth, shipping velocity — both, not either.
+```python
+class KondapiSriPranav:
+    def __init__(self):
+        self.role     = "Quantum × AI Engineer"
+        self.location = "Vijayawada, IN"
+        self.stack    = ["Qiskit", "PyTorch", "LangGraph", "FastAPI", "Docker"]
+        self.building = ["hybrid quantum-classical systems", "agentic LLM architectures"]
+
+    def philosophy(self) -> str:
+        return "Research depth, shipping velocity — both, not either."
+```
+
+Engineer working at the intersection of quantum computing, generative AI, and production software. I build hybrid quantum-classical systems that run on real QPUs, agentic LLM architectures that survive evals, and the infrastructure that ships them.
 
 <br>
 
+<!-- ═══════════════════════ DOMAINS ═══════════════════════ -->
+
 ## ▌  Domains
+
+<div align="center">
+
+<img src="./assets/quantum.svg" alt="Quantum Computing" width="49%"/>
+<img src="./assets/ai.svg" alt="AI & Generative Systems" width="49%"/>
+
+<br><br>
+
+<img src="./assets/devops.svg" alt="DevOps & Infrastructure" width="49%"/>
+<img src="./assets/fullstack.svg" alt="Full-Stack Engineering" width="49%"/>
+
+</div>
 
 <table width="100%">
 <tr>
@@ -45,31 +79,29 @@ Agentic architectures with LangGraph and MCP. Multi-agent orchestration, tool-au
 <tr>
 <td valign="top" width="50%">
 
-### ◊  Machine Learning & MLOps
+### ▤  DevOps & Infrastructure
 
-End-to-end model lifecycles — training, evaluation, deployment, monitoring. Reproducible experiments, model registries, observability for inference SLOs.
+Containerized services, declarative infra, CI/CD pipelines, and cloud deployment. Code that ships through reviews, tests, and gates — not from a laptop.
 
 </td>
 <td valign="top" width="50%">
 
-### ▣  Software Engineering
+### ▣  Full-Stack Engineering
 
-Full-stack systems with disciplined API design and clean architecture. Backend services, frontend interfaces, the contracts between them — built to scale, not just to demo.
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-### ▤  DevOps & Infrastructure
-
-Containerized services, declarative infra, CI/CD pipelines, and cloud deployment. Code that ships through reviews, tests, and gates — not from a laptop.
+End-to-end systems with disciplined API design and clean architecture. Backend services, frontend interfaces, the contracts between them — built to scale, not just to demo.
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<!-- animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,18,20,24&height=80&section=footer&animation=fadeIn" width="100%" alt="divider"/>
+
+<br>
+
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
 
 ## ▌  Arsenal
 
@@ -129,11 +161,19 @@ Containerized services, declarative infra, CI/CD pipelines, and cloud deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
+### ◎  Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=03050C)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </td>
 </tr>
 </table>
 
 <br>
+
+<!-- ═══════════════════════ CREDENTIALS ═══════════════════════ -->
 
 ## ▌  Credentials
 
@@ -145,6 +185,8 @@ Containerized services, declarative infra, CI/CD pipelines, and cloud deployment
 
 <br>
 
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
 ## ▌  Stats
 
 <div align="center">
@@ -152,18 +194,18 @@ Containerized services, declarative infra, CI/CD pipelines, and cloud deployment
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=pranavks343&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=22D3EE&icon_color=A78BFA&text_color=cbd5e1&bg_color=03050C" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranavks343&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=22D3EE&icon_color=A78BFA&text_color=cbd5e1&bg_color=03050C" height="180" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://streak-stats.demolab.com?user=pranavks343&theme=tokyonight&hide_border=true&background=03050C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&dates=94A3B8" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=pranavks343&theme=tokyonight&hide_border=true&background=03050C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&dates=94A3B8" height="180" alt="GitHub Streak"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavks343&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=22D3EE&text_color=cbd5e1&bg_color=03050C" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavks343&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=22D3EE&text_color=cbd5e1&bg_color=03050C" height="180" alt="Top Languages"/>
 </td>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=pranavks343&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=4&margin-h=4" height="170" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranavks343&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=4&margin-h=4" height="180" alt="Trophies"/>
 </td>
 </tr>
 </table>
@@ -174,11 +216,19 @@ Containerized services, declarative infra, CI/CD pipelines, and cloud deployment
 
 <br><br>
 
+<!-- snake animation (requires Platane/snk action set up) -->
 <img alt="Snake animation" src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake-dark.svg" width="98%"/>
 
 </div>
 
 <br>
+
+<!-- animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,18,20,24&height=80&section=header&animation=fadeIn&reversal=true" width="100%" alt="divider"/>
+
+<br>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 ## ▌  Connect
 
@@ -188,5 +238,9 @@ Containerized services, declarative infra, CI/CD pipelines, and cloud deployment
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_KS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-ks-95342327b)
 [![Email](https://img.shields.io/badge/Email-kondapisripranav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondapisripranav@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranavks343-03050C?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/pranavks343)
+
+<br>
+
+<sub>⚛  Quantum-coherent · AI-augmented · Production-grade  ⚛</sub>
 
 </div>
