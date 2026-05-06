@@ -223,22 +223,19 @@ Beautiful interfaces around hard, complex systems.
 <a href="https://github.com/pranavks343/QuantumPortfolioOptimization">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=QuantumPortfolioOptimization&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="QuantumPortfolioOptimization"/>
 </a>
-<a href="https://github.com/pranavks343/ambulance-quantum-optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=ambulance-quantum-optimizer&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="ambulance-quantum-optimizer"/>
-</a>
-
-<!-- Row 2 -->
 <a href="https://github.com/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=Fidelity-Aware-Quantum-Network-Planner-FAQNP-&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="Fidelity-Aware Quantum Network Planner"/>
 </a>
+
+<!-- Row 2 -->
 <a href="https://github.com/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="MCP-style Banking Query Router"/>
 </a>
-
-<!-- Row 3 -->
 <a href="https://github.com/pranavks343/CLI-AI-ASSISTANT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=CLI-AI-ASSISTANT&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="CLI-AI-ASSISTANT"/>
 </a>
+
+<!-- Row 3 -->
 <a href="https://github.com/pranavks343/pdf-knowledge-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=pdf-knowledge-bot&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="pdf-knowledge-bot"/>
 </a>
