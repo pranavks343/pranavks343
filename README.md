@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    PRANAV K.S. — GITHUB PROFILE                     -->
-<!--                    Quantum × AI Engineer                            -->
+<!--                  KONDAPI SRI PRANAV — GITHUB PROFILE                -->
+<!--                  Quantum × AI Engineer                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 
@@ -13,8 +13,8 @@
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=PRANAV%20K.S.&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=PRANAV%20K.S.&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=KONDAPI%20SRI%20PRANAV&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=KONDAPI%20SRI%20PRANAV&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%9B%EF%B8%8F%20%20Quantum%20%C3%97%20AI%20Engineer%20%20%E2%9A%9B%EF%B8%8F&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Banner"/>
 </picture>
 
 <!-- Typing effect -->
@@ -248,7 +248,7 @@ Shipping models like software — reproducible training, containerized inference
 ```python
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   class Pranav:                                                  ║
+║   class KondapiSriPranav:                                        ║
 ║       """The intersection of quantum and intelligence."""        ║
 ║                                                                  ║
 ║       identity = {                                               ║
@@ -296,6 +296,6 @@ Shipping models like software — reproducible training, containerized inference
 
 <br>
 
-<sub>Crafted with ☕ and superposition · © 2026 Pranav K.S.</sub>
+<sub>Crafted with ☕ and superposition · © 2026 Kondapi Sri Pranav</sub>
 
 </div>
