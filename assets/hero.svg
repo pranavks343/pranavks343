@@ -1,13 +1,13 @@
-<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kondapi Sri Pranav — Quantum × AI Engineer">
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kondapi Sri Pranav — Quantum × AI Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%"  stop-color="#03050C"/>
       <stop offset="55%" stop-color="#080F22"/>
       <stop offset="100%" stop-color="#0A1228"/>
     </linearGradient>
-    <radialGradient id="halo" cx="0.78" cy="0.5" r="0.45">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.5"/>
-      <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.10"/>
+    <radialGradient id="halo" cx="0.78" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#03050C" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
@@ -17,72 +17,199 @@
       <stop offset="80%" stop-color="#A78BFA" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="name-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#A78BFA;#22D3EE" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#7C3AED;#A78BFA" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#7C3AED" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#22D3EE" stroke-width="0.4" opacity="0.10"/>
     </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
     <style>
-      .nm   { font: 700 64px ui-monospace, 'JetBrains Mono', monospace; fill: #ffffff; letter-spacing: 0.04em; }
+      .nm   { font: 700 64px ui-monospace, 'JetBrains Mono', monospace; letter-spacing: 0.04em; fill: url(#name-grad); }
       .role { font: 500 13px ui-monospace, 'JetBrains Mono', monospace; fill: #22D3EE; letter-spacing: 0.42em; }
       .kick { font: 500 11px ui-monospace, 'JetBrains Mono', monospace; fill: #A78BFA; letter-spacing: 0.42em; }
       .meta { font: 400 11px ui-monospace, 'JetBrains Mono', monospace; fill: #94A3B8; letter-spacing: 0.18em; }
       .tag  { font: 400 13px ui-monospace, 'JetBrains Mono', monospace; fill: #cbd5e1; }
       .gate { font: 700 11px ui-monospace, 'JetBrains Mono', monospace; fill: #ffffff; }
       .qbit { font: 500 11px ui-monospace, 'JetBrains Mono', monospace; fill: #22D3EE; }
-      @keyframes pulse { 0%,100% { opacity: 0.3 } 50% { opacity: 1 } }
-      .p1 { animation: pulse 2.4s ease-in-out infinite }
-      .p2 { animation: pulse 2.4s ease-in-out 0.6s infinite }
-      .p3 { animation: pulse 2.4s ease-in-out 1.2s infinite }
     </style>
   </defs>
-  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="14" fill="url(#grid)"/>
-  <circle cx="940" cy="150" r="260" fill="url(#halo)"/>
+
+  <rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+  <circle cx="940" cy="160" r="280" fill="url(#halo)">
+    <animate attributeName="r" values="260;290;260" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating particles -->
+  <g opacity="0.7">
+    <circle cx="100" cy="80" r="1.5" fill="#22D3EE">
+      <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="260" r="1.5" fill="#A78BFA">
+      <animate attributeName="cy" values="260;240;260" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="100" r="1.5" fill="#7C3AED">
+      <animate attributeName="cy" values="100;80;100" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="280" r="1.5" fill="#22D3EE">
+      <animate attributeName="cy" values="280;260;280" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="280" r="1.5" fill="#A78BFA">
+      <animate attributeName="cy" values="280;260;280" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- corner brackets -->
   <g stroke="#22D3EE" stroke-width="1" opacity="0.5">
     <path d="M22 22 L46 22 M22 22 L22 46"/>
     <path d="M1178 22 L1154 22 M1178 22 L1178 46"/>
-    <path d="M22 278 L46 278 M22 278 L22 254"/>
-    <path d="M1178 278 L1154 278 M1178 278 L1178 254"/>
+    <path d="M22 298 L46 298 M22 298 L22 274"/>
+    <path d="M1178 298 L1154 298 M1178 298 L1178 274"/>
   </g>
+
   <text x="50" y="44" class="kick">QUANTUM × AI · MMXXVI</text>
   <text x="1150" y="44" class="meta" text-anchor="end">VIJAYAWADA · IN</text>
-  <g transform="translate(720,100)">
+
+  <!-- Quantum circuit (right side) - more animated -->
+  <g transform="translate(720,110)">
     <text x="-6" y="22" class="qbit" text-anchor="end">q₀</text>
     <text x="-6" y="62" class="qbit" text-anchor="end">q₁</text>
     <text x="-6" y="102" class="qbit" text-anchor="end">q₂</text>
+
     <line x1="0"  y1="20"  x2="430" y2="20"  stroke="url(#wire)" stroke-width="1.4"/>
     <line x1="0"  y1="60"  x2="430" y2="60"  stroke="url(#wire)" stroke-width="1.4"/>
     <line x1="0"  y1="100" x2="430" y2="100" stroke="url(#wire)" stroke-width="1.4"/>
-    <rect x="20" y="6" width="26" height="28" rx="3" fill="#22D3EE"/>
+
+    <!-- traveling pulse on each wire -->
+    <circle r="3" fill="#22D3EE" filter="url(#glow)">
+      <animate attributeName="cx" values="0;430" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="20;20" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#A78BFA" filter="url(#glow)">
+      <animate attributeName="cx" values="0;430" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;60" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#7C3AED" filter="url(#glow)">
+      <animate attributeName="cx" values="0;430" dur="4s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;100" dur="4s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- gates with subtle pulse -->
+    <rect x="20" y="6" width="26" height="28" rx="3" fill="#22D3EE">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </rect>
     <text x="33" y="24" class="gate" text-anchor="middle" fill="#03050C">H</text>
-    <circle cx="80" cy="20" r="4" fill="#A78BFA" class="p1"/>
+
+    <!-- CNOT 1 -->
+    <circle cx="80" cy="20" r="4" fill="#A78BFA">
+      <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
     <line x1="80" y1="20" x2="80" y2="60" stroke="#A78BFA" stroke-width="1.4"/>
     <circle cx="80" cy="60" r="9" fill="none" stroke="#A78BFA" stroke-width="1.4"/>
     <line x1="71" y1="60" x2="89" y2="60" stroke="#A78BFA" stroke-width="1.4"/>
     <line x1="80" y1="51" x2="80" y2="69" stroke="#A78BFA" stroke-width="1.4"/>
-    <rect x="120" y="46" width="40" height="28" rx="3" fill="#7C3AED"/>
+
+    <rect x="120" y="46" width="40" height="28" rx="3" fill="#7C3AED">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
     <text x="140" y="64" class="gate" text-anchor="middle">RY(θ)</text>
-    <rect x="190" y="6" width="40" height="28" rx="3" fill="#22D3EE"/>
+
+    <rect x="190" y="6" width="40" height="28" rx="3" fill="#22D3EE">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
     <text x="210" y="24" class="gate" text-anchor="middle" fill="#03050C">RZ(φ)</text>
-    <rect x="120" y="86" width="34" height="28" rx="3" fill="#A78BFA"/>
+
+    <rect x="120" y="86" width="34" height="28" rx="3" fill="#A78BFA">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
     <text x="137" y="104" class="gate" text-anchor="middle" fill="#03050C">U₃</text>
-    <circle cx="260" cy="60" r="4" fill="#A78BFA" class="p2"/>
+
+    <!-- CNOT 2 -->
+    <circle cx="260" cy="60" r="4" fill="#A78BFA">
+      <animate attributeName="r" values="4;6;4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
     <line x1="260" y1="60" x2="260" y2="100" stroke="#A78BFA" stroke-width="1.4"/>
     <circle cx="260" cy="100" r="9" fill="none" stroke="#A78BFA" stroke-width="1.4"/>
     <line x1="251" y1="100" x2="269" y2="100" stroke="#A78BFA" stroke-width="1.4"/>
     <line x1="260" y1="91" x2="260" y2="109" stroke="#A78BFA" stroke-width="1.4"/>
+
+    <!-- Entangling RZZ -->
     <rect x="300" y="6"  width="38" height="28" rx="3" fill="#22D3EE"/>
     <text x="319" y="24" class="gate" text-anchor="middle" fill="#03050C">RZZ</text>
     <rect x="300" y="86" width="38" height="28" rx="3" fill="#22D3EE"/>
     <text x="319" y="104" class="gate" text-anchor="middle" fill="#03050C">RZZ</text>
-    <line x1="319" y1="34" x2="319" y2="86" stroke="#22D3EE" stroke-width="1" stroke-dasharray="3,2" opacity="0.55" class="p3"/>
-    <g transform="translate(380,6)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
-    <g transform="translate(380,46)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
-    <g transform="translate(380,86)"><rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/><path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/><line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/></g>
+    <line x1="319" y1="34" x2="319" y2="86" stroke="#22D3EE" stroke-width="1" stroke-dasharray="3,2" opacity="0.55">
+      <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Measurement gates -->
+    <g transform="translate(380,6)">
+      <rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/>
+      <path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/>
+      <line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/>
+    </g>
+    <g transform="translate(380,46)">
+      <rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/>
+      <path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/>
+      <line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/>
+    </g>
+    <g transform="translate(380,86)">
+      <rect width="30" height="28" rx="3" fill="none" stroke="#cbd5e1"/>
+      <path d="M5 22 Q15 6 25 22" stroke="#cbd5e1" fill="none"/>
+      <line x1="15" y1="22" x2="25" y2="8" stroke="#cbd5e1"/>
+    </g>
+
     <text x="215" y="138" class="meta" text-anchor="middle">VARIATIONAL · HYBRID · HARDWARE-VALIDATED</text>
   </g>
+
+  <!-- Bloch sphere -->
+  <g transform="translate(160,170)">
+    <circle r="42" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.4"/>
+    <ellipse cx="0" cy="0" rx="42" ry="14" fill="none" stroke="#22D3EE" stroke-width="0.6" opacity="0.4"/>
+    <ellipse cx="0" cy="0" rx="14" ry="42" fill="none" stroke="#A78BFA" stroke-width="0.6" opacity="0.4"/>
+    <line x1="0" y1="-50" x2="0" y2="50" stroke="#94A3B8" stroke-width="0.5" opacity="0.5"/>
+    <line x1="-50" y1="0" x2="50" y2="0" stroke="#94A3B8" stroke-width="0.5" opacity="0.5"/>
+    <!-- state vector that rotates -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="30" y2="-30" stroke="#22D3EE" stroke-width="2" filter="url(#glow)"/>
+      <circle cx="30" cy="-30" r="3" fill="#22D3EE" filter="url(#glow)"/>
+    </g>
+    <text x="0" y="-50" class="qbit" text-anchor="middle">|0⟩</text>
+    <text x="0" y="58" class="qbit" text-anchor="middle">|1⟩</text>
+  </g>
+
+  <!-- Name and titles -->
   <text x="50" y="124" class="role">QUANTUM × AI ENGINEER</text>
-  <text x="50" y="194" class="nm">PRANAV</text>
+  <text x="50" y="194" class="nm" filter="url(#glow)">PRANAV</text>
   <text x="50" y="226" class="tag">Kondapi Sri Pranav</text>
-  <line x1="50" y1="244" x2="220" y2="244" stroke="#22D3EE" stroke-width="2"/>
+  <line x1="50" y1="244" x2="220" y2="244" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="x2" values="50;220;50" dur="3s" repeatCount="indefinite"/>
+  </line>
   <text x="50" y="270" class="meta">|ψ⟩ = α|0⟩ + β|1⟩  ·  SHIPS CODE</text>
+
+  <!-- Blinking cursor -->
+  <rect x="270" y="178" width="3" height="22" fill="#22D3EE">
+    <animate attributeName="opacity" values="0;0;1;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
