@@ -93,7 +93,7 @@ My obsession is **engineering rigor at the bleeding edge**: clean architecture, 
 
 ### ⚛️ Quantum Engineering
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/IBM_Q_system_%28Fraunhofer_IAF%29.jpg/320px-IBM_Q_system_%28Fraunhofer_IAF%29.jpg" width="120"/>
 
 Building real applications on real hardware — QAOA, VQE, quantum networking, error mitigation, and hybrid pipelines validated on IBM Quantum systems.
 
@@ -102,7 +102,7 @@ Building real applications on real hardware — QAOA, VQE, quantum networking, e
 
 ### 🤖 Agentic AI
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="120"/>
 
 Designing multi-agent systems with LangGraph, MCP, and tool-augmented reasoning — production RAG, evaluation harnesses, and autonomous workflows.
 
@@ -111,7 +111,7 @@ Designing multi-agent systems with LangGraph, MCP, and tool-augmented reasoning 
 
 ### 🚀 MLOps & Systems
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="120"/>
 
 Shipping models like software — reproducible training, containerized inference, observability, and CI/CD for ML systems that don't break at 3 AM.
 
