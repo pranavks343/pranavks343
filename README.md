@@ -220,21 +220,6 @@ Hybrid quantum-classical portfolio optimizer. **Mean-variance with cardinality**
 </td>
 <td width="50%" valign="top">
 
-### 🚑&nbsp; [Ambulance Quantum Optimizer](https://github.com/pranavks343/ambulance-quantum-optimizer)
-
-Emergency dispatch as a constrained optimization problem — **ambulance type, urgency, hospital distance, response-time penalties**. Classical heuristics paired with quantum-inspired solvers.
-
-<a href="https://github.com/pranavks343/ambulance-quantum-optimizer/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
-<img src="https://img.shields.io/github/languages/top/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
-<img src="https://img.shields.io/github/last-commit/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
-
-<sub>`QUBO` &nbsp;·&nbsp; `Routing` &nbsp;·&nbsp; `Simulation` &nbsp;·&nbsp; `Healthcare`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌐&nbsp; [Fidelity-Aware Quantum Network Planner](https://github.com/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-)
 
 Plans entanglement distribution across quantum networks with **explicit fidelity budgeting**. Research-grade tooling for repeater placement and route selection.
@@ -246,6 +231,8 @@ Plans entanglement distribution across quantum networks with **explicit fidelity
 <sub>`Quantum Networks` &nbsp;·&nbsp; `Optimization` &nbsp;·&nbsp; `Research`</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏦&nbsp; [MCP-Style Banking Query Router](https://github.com/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-)
@@ -259,8 +246,6 @@ Multi-channel customer-query router built around **MCP-style tool specs**. Route
 <sub>`MCP` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Tool Use` &nbsp;·&nbsp; `Banking`</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💻&nbsp; [CLI AI Assistant](https://github.com/pranavks343/CLI-AI-ASSISTANT)
@@ -274,6 +259,8 @@ Agentic CLI with **tool use, persistent memory, and shell-aware reasoning**. Bui
 <sub>`Agents` &nbsp;·&nbsp; `Tool Use` &nbsp;·&nbsp; `CLI` &nbsp;·&nbsp; `Memory`</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧾&nbsp; [PDF Knowledge Bot](https://github.com/pranavks343/pdf-knowledge-bot)
@@ -287,6 +274,7 @@ Document intelligence with **hybrid retrieval, reranking, and citations**. Sourc
 <sub>`RAG` &nbsp;·&nbsp; `Vector Search` &nbsp;·&nbsp; `Reranking` &nbsp;·&nbsp; `Citations`</sub>
 
 </td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
