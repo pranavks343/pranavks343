@@ -203,28 +203,96 @@ def hybrid_loop(problem, max_iter: int = 100):
 
 ## Featured Builds
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛&nbsp; [Quantum Portfolio Optimization](https://github.com/pranavks343/QuantumPortfolioOptimization)
+
+Hybrid quantum-classical portfolio optimizer. **Mean-variance with cardinality** posed as QUBO, run via QAOA against a classical baseline for honest benchmarking.
+
+<a href="https://github.com/pranavks343/QuantumPortfolioOptimization/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/QuantumPortfolioOptimization?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/QuantumPortfolioOptimization?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/QuantumPortfolioOptimization?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`Qiskit` &nbsp;·&nbsp; `QAOA` &nbsp;·&nbsp; `QUBO` &nbsp;·&nbsp; `Finance`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚑&nbsp; [Ambulance Quantum Optimizer](https://github.com/pranavks343/ambulance-quantum-optimizer)
+
+Emergency dispatch as a constrained optimization problem — **ambulance type, urgency, hospital distance, response-time penalties**. Classical heuristics paired with quantum-inspired solvers.
+
+<a href="https://github.com/pranavks343/ambulance-quantum-optimizer/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/ambulance-quantum-optimizer?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`QUBO` &nbsp;·&nbsp; `Routing` &nbsp;·&nbsp; `Simulation` &nbsp;·&nbsp; `Healthcare`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐&nbsp; [Fidelity-Aware Quantum Network Planner](https://github.com/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-)
+
+Plans entanglement distribution across quantum networks with **explicit fidelity budgeting**. Research-grade tooling for repeater placement and route selection.
+
+<a href="https://github.com/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`Quantum Networks` &nbsp;·&nbsp; `Optimization` &nbsp;·&nbsp; `Research`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦&nbsp; [MCP-Style Banking Query Router](https://github.com/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-)
+
+Multi-channel customer-query router built around **MCP-style tool specs**. Routes intents across channels with structured tool calls and explicit fallback paths.
+
+<a href="https://github.com/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`MCP` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Tool Use` &nbsp;·&nbsp; `Banking`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻&nbsp; [CLI AI Assistant](https://github.com/pranavks343/CLI-AI-ASSISTANT)
+
+Agentic CLI with **tool use, persistent memory, and shell-aware reasoning**. Built for engineers who live in the terminal.
+
+<a href="https://github.com/pranavks343/CLI-AI-ASSISTANT/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/CLI-AI-ASSISTANT?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/CLI-AI-ASSISTANT?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/CLI-AI-ASSISTANT?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`Agents` &nbsp;·&nbsp; `Tool Use` &nbsp;·&nbsp; `CLI` &nbsp;·&nbsp; `Memory`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾&nbsp; [PDF Knowledge Bot](https://github.com/pranavks343/pdf-knowledge-bot)
+
+Document intelligence with **hybrid retrieval, reranking, and citations**. Source-grounded answers from your PDFs — eval-ready and audit-friendly.
+
+<a href="https://github.com/pranavks343/pdf-knowledge-bot/stargazers"><img src="https://img.shields.io/github/stars/pranavks343/pdf-knowledge-bot?style=flat-square&color=22D3EE&labelColor=03050C&logo=github&logoColor=22D3EE" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/pranavks343/pdf-knowledge-bot?style=flat-square&color=A78BFA&labelColor=03050C" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/pranavks343/pdf-knowledge-bot?style=flat-square&color=7C3AED&labelColor=03050C" alt="Last commit" />
+
+<sub>`RAG` &nbsp;·&nbsp; `Vector Search` &nbsp;·&nbsp; `Reranking` &nbsp;·&nbsp; `Citations`</sub>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<a href="https://github.com/pranavks343/QuantumPortfolioOptimization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=QuantumPortfolioOptimization&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="Quantum Portfolio Optimization" />
-</a>
-<a href="https://github.com/pranavks343/ambulance-quantum-optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=ambulance-quantum-optimizer&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="Ambulance Quantum Optimizer" />
-</a>
-<a href="https://github.com/pranavks343/Fidelity-Aware-Quantum-Network-Planner-FAQNP-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=Fidelity-Aware-Quantum-Network-Planner-FAQNP-&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="Fidelity Aware Quantum Network Planner" />
-</a>
-<a href="https://github.com/pranavks343/Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=Multi-Channel-Customer-Query-Router-for-Banking-MCPstyle-&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="MCP-style Banking Query Router" />
-</a>
-<a href="https://github.com/pranavks343/CLI-AI-ASSISTANT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=CLI-AI-ASSISTANT&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="CLI AI Assistant" />
-</a>
-<a href="https://github.com/pranavks343/pdf-knowledge-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavks343&repo=pdf-knowledge-bot&theme=tokyonight&hide_border=true&bg_color=03050C&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&description_lines_count=2" alt="PDF Knowledge Bot" />
-</a>
-
-<br /><br />
+<br />
 
 <a href="https://github.com/pranavks343?tab=repositories">
   <img src="https://img.shields.io/badge/View%20all%20repositories-03050C?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=03050C" alt="View all repositories" />
