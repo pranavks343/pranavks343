@@ -5,6 +5,7 @@
   Built as a high-signal profile page:
   - custom animated SVG hero and domain cards from /assets
   - live GitHub cards and metrics
+  - a signature code moment that shows taste, not just claims it
   - concise narrative for recruiters, collaborators, and technical reviewers
 -->
 
@@ -18,7 +19,7 @@
 
 <a href="https://github.com/pranavks343">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=980&height=58&lines=Quantum+optimization+engineer.;Agentic+AI+systems+builder.;Full-stack+product+execution.;Research-grade+thinking.+Production-grade+shipping."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=980&height=58&lines=Quantum-classical+optimization%2C+end+to+end.;Agentic+AI+with+eval%2C+observability%2C+and+taste.;Research-grade+thinking.+Production-grade+shipping.;Built+where+research+meets+runtime."
     alt="Animated profile tagline"
   />
 </a>
@@ -35,6 +36,14 @@
 <a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03050C" alt="LinkedIn" /></a>
 <a href="mailto:kondapisripranav@gmail.com"><img src="https://img.shields.io/badge/Email-kondapisripranav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03050C" alt="Email" /></a>
 <a href="https://github.com/pranavks343?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore%20the%20builds-A78BFA?style=for-the-badge&logo=github&logoColor=03050C&labelColor=03050C" alt="Repositories" /></a>
+
+<br /><br />
+
+<!-- Four-pillar domain strip — instant visual key for the work -->
+<img src="https://img.shields.io/badge/⚛%20%20Quantum%20Optimization-0A1228?style=for-the-badge&labelColor=0A1228" alt="Quantum Optimization" />
+<img src="https://img.shields.io/badge/🤖%20%20Agentic%20AI-1C3C3C?style=for-the-badge&labelColor=1C3C3C" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/⚙%20%20Production%20Systems-1E1B4B?style=for-the-badge&labelColor=1E1B4B" alt="Production Systems" />
+<img src="https://img.shields.io/badge/🎨%20%20Full--Stack%20Products-03050C?style=for-the-badge&labelColor=03050C" alt="Full Stack Products" />
 
 </div>
 
@@ -98,6 +107,34 @@ Hybrid solvers, agent evaluation, quantum optimization, MCP-style tool workflows
 </table>
 
 <br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
+
+## Signature
+
+<sub>One pattern that holds my whole stack together — research formulation, quantum execution, classical optimization, and the eval loop that decides if any of it actually worked.</sub>
+
+```python
+def hybrid_loop(problem, max_iter: int = 100):
+    """A pattern I keep coming back to: hybrid quantum-classical optimization."""
+    qubo   = formulate(problem)              # 1. research  — turn the world into a Hamiltonian
+    qaoa   = QAOA(cost_hamiltonian=qubo, p=3)# 2. quantum   — variational ansatz
+    metric = Evaluator(problem)              # 3. eval      — observable, not vibes
+
+    for step in range(max_iter):
+        params  = classical_optimizer(qaoa)  # 4. classical — gradient / COBYLA / SPSA
+        bitstr  = qaoa.run(params)           # 5. execute   — circuit on simulator or hardware
+        score   = metric(bitstr)             #    measure   — every loop must be defensible
+
+        if metric.converged(score):
+            return Result(bitstr=bitstr, score=score, history=metric.history)
+
+    return metric.best_so_far()
+```
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
 
 ## Engineering Domains
 
@@ -197,6 +234,8 @@ Hybrid solvers, agent evaluation, quantum optimization, MCP-style tool workflows
 
 <br />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
+
 ## Stack Matrix
 
 <div align="center">
@@ -242,6 +281,42 @@ Hybrid solvers, agent evaluation, quantum optimization, MCP-style tool workflows
 
 </details>
 
+<details>
+<summary><b>What I'm reading right now</b></summary>
+
+<br />
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Quantum**
+- Variational quantum algorithms — depth, noise, expressibility
+- QAOA performance on hard combinatorial structure
+- Error mitigation that survives outside the lab
+
+</td>
+<td valign="top" width="34%">
+
+**AI Systems**
+- MCP, tool-spec patterns, structured generation
+- LLM evaluation methodology beyond benchmarks
+- Agent architectures with measurable tool use
+
+</td>
+<td valign="top" width="33%">
+
+**Engineering**
+- Distributed systems, observability, recovery
+- Optimization theory and combinatorics
+- Building products around uncertain models
+
+</td>
+</tr>
+</table>
+
+</details>
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
@@ -259,6 +334,8 @@ flowchart LR
     G --> H["Measure, debug, iterate"]
     H --> D
 ```
+
+<sub align="center"><i>The loop on the right is the part most projects skip. I treat it as the product.</i></sub>
 
 <table>
 <tr>
@@ -287,6 +364,8 @@ I build end-to-end: model, backend, frontend, deployment, docs, and the feedback
 </table>
 
 <br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
 
 ## GitHub Signal
 
@@ -318,11 +397,37 @@ I build end-to-end: model, backend, frontend, deployment, docs, and the feedback
 
 <br /><br />
 
+<!-- Profile summary cards: deeper, more specific signal than generic trophies -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavks343&theme=tokyonight" alt="Profile details" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavks343&theme=tokyonight" alt="Repos per language" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavks343&theme=tokyonight" alt="Most commit language" height="180" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavks343&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavks343&theme=tokyonight" alt="Stats" height="180" />
+
+<br /><br />
+
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=pranavks343&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=A78BFA&point=7C3AED&bg_color=03050C&hide_title=true&radius=8"
   width="96%"
   alt="Contribution graph"
 />
+
+<!--
+  Snake animation — enable after adding the Platane/snk GitHub Action
+  (.github/workflows/snake.yml). Until then it 404s, so it's commented.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg" width="96%" />
+</picture>
+-->
 
 </div>
 
@@ -367,7 +472,17 @@ Quantum, AI, research engineering, and serious product work.
 
 <br />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%" alt="" />
+
 <div align="center">
+
+<br />
+
+<!-- The line worth quoting -->
+> ### *The most interesting work right now lives at the seam between research and production.*
+> ### *Quantum is hard. AI is hot. Engineering is what makes both real.*
+
+<br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 
@@ -376,6 +491,10 @@ Quantum, AI, research engineering, and serious product work.
 ### Build With Me
 
 If you are working on quantum optimization, agentic AI, intelligent infrastructure, or a research idea that deserves production execution, I want to hear about it.
+
+<sub><i>I usually reply within 24 hours.</i></sub>
+
+<br />
 
 <a href="https://pranavks.co.in"><img src="https://img.shields.io/badge/Portfolio-pranavks.co.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=03050C&labelColor=03050C" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/pranav-ks-95342327b"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20KS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03050C" alt="LinkedIn" /></a>
