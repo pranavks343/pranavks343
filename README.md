@@ -40,10 +40,10 @@
 <br /><br />
 
 <!-- Four-pillar domain strip — instant visual key for the work -->
-<img src="https://img.shields.io/badge/⚛%20%20Quantum%20Optimization-0A1228?style=for-the-badge&labelColor=0A1228" alt="Quantum Optimization" />
+<img src="https://img.shields.io/badge/⚛%20%20Quantum%20Computing-0A1228?style=for-the-badge&labelColor=0A1228" alt="Quantum Computing" />
 <img src="https://img.shields.io/badge/🤖%20%20Agentic%20AI-1C3C3C?style=for-the-badge&labelColor=1C3C3C" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/⚙%20%20Production%20Systems-1E1B4B?style=for-the-badge&labelColor=1E1B4B" alt="Production Systems" />
-<img src="https://img.shields.io/badge/🎨%20%20Full--Stack%20Products-03050C?style=for-the-badge&labelColor=03050C" alt="Full Stack Products" />
+<img src="https://img.shields.io/badge/⚙%20%20Backend%20Engineering-1E1B4B?style=for-the-badge&labelColor=1E1B4B" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/☁%20%20Cloud%20%26%20DevOps-03050C?style=for-the-badge&labelColor=03050C" alt="Cloud and DevOps" />
 
 </div>
 
@@ -53,9 +53,11 @@
 
 ### I turn hard technical ideas into systems people can actually use.
 
-I work where **quantum computing**, **agentic AI**, and **production software** collide: QUBO and Ising formulations, QAOA and hybrid solvers, LangGraph agents, RAG pipelines, FastAPI services, Next.js product surfaces, Dockerized deployments, and evaluation loops that make the system better over time.
+I work where **quantum computing**, **agentic AI**, **backend engineering**, and **cloud DevOps** collide: QUBO and Ising formulations, QAOA and hybrid solvers, LangGraph agents, RAG pipelines, FastAPI services with typed contracts, PostgreSQL and Redis, Dockerized and Kubernetes-ready deployments on AWS, CI/CD with GitHub Actions, observability with OpenTelemetry, and evaluation loops that make the system better over time.
 
 **Research depth. Clean architecture. Shipping velocity.**
+
+<sub>Open to roles in <b>Quantum Computing</b> · <b>AI / ML Engineering</b> · <b>Backend Engineering</b> · <b>Cloud &amp; DevOps</b>.</sub>
 
 </div>
 
@@ -72,19 +74,20 @@ I work where **quantum computing**, **agentic AI**, and **production software** 
 ```python
 class KondapiSriPranav:
     location = "Vijayawada, India"
-    role = "Quantum Computing x Agentic AI Engineer"
+    role = "Quantum + AI + Backend + Cloud DevOps Engineer"
 
     builds = [
         "hybrid quantum-classical optimizers",
         "agentic AI products with real tool use",
         "RAG systems with evaluation and citations",
-        "typed APIs, dashboards, and deployment pipelines",
+        "typed backend APIs, observable services, and CI/CD pipelines",
     ]
 
     stack = {
         "quantum": ["Qiskit", "QAOA", "VQE", "QUBO", "Ising"],
-        "ai": ["LangGraph", "LangChain", "RAG", "PyTorch", "Hugging Face"],
-        "systems": ["Python", "FastAPI", "Next.js", "PostgreSQL", "Docker"],
+        "ai":      ["LangGraph", "LangChain", "RAG", "PyTorch", "Hugging Face"],
+        "backend": ["Python", "FastAPI", "Node.js", "PostgreSQL", "Redis"],
+        "cloud":   ["AWS", "Docker", "Kubernetes", "GitHub Actions", "OpenTelemetry"],
     }
 
     def north_star(self):
@@ -170,28 +173,28 @@ def hybrid_loop(problem, max_iter: int = 100):
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/devops.svg" width="100%" alt="Backend and Infrastructure" />
+<img src="./assets/fullstack.svg" width="100%" alt="Backend Engineering" />
 
-### Backend & Infrastructure
+### Backend Engineering
 
-- FastAPI services with typed contracts
+- FastAPI and Node.js services with typed contracts
 - PostgreSQL, Redis, vector stores, and queues
-- Dockerized local-to-prod environments
-- CI/CD with GitHub Actions
-- Observability-first service design
+- Auth, rate limiting, and idempotent APIs
+- Domain modeling, migrations, and clean boundaries
+- API design that another engineer can inherit
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/fullstack.svg" width="100%" alt="Full Stack Products" />
+<img src="./assets/devops.svg" width="100%" alt="Cloud and DevOps" />
 
-### Full-Stack Products
+### Cloud & DevOps
 
-- React and Next.js interfaces
-- Dashboards for experiments and insights
-- Streamlit prototypes when speed matters
-- Clean API boundaries and frontend state
-- Data, model, and optimization visualizations
+- AWS deployments, Docker, and Kubernetes-ready services
+- CI/CD with GitHub Actions and reproducible builds
+- Infrastructure as Code patterns and environment parity
+- Observability with OpenTelemetry, Prometheus, Grafana, Sentry
+- Incident-aware design: health checks, retries, graceful failure
 
 </td>
 </tr>
@@ -318,9 +321,17 @@ Document intelligence with **hybrid retrieval, reranking, and citations**. Sourc
 <img src="https://img.shields.io/badge/QUBO%20%2F%20Ising-A78BFA?style=for-the-badge&logoColor=03050C" alt="QUBO and Ising" />
 <img src="https://img.shields.io/badge/OpenQASM-052FAD?style=for-the-badge&logoColor=white" alt="OpenQASM" />
 
-<b>Product Engineering</b>
+<b>Backend Engineering</b>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,tailwind,postgres,mongodb,redis,docker,kubernetes,githubactions,git,aws,linux,vercel&theme=dark" alt="Backend, frontend, DevOps, and cloud stack" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,graphql,prisma&theme=dark" alt="Backend stack" />
+
+<b>Cloud &amp; DevOps</b>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,nginx,linux,grafana,prometheus,vercel&theme=dark" alt="Cloud and DevOps stack" />
+
+<b>Frontend &amp; Product</b>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,vite&theme=dark" alt="Frontend stack" />
 
 </div>
 
@@ -474,16 +485,13 @@ I build end-to-end: model, backend, frontend, deployment, docs, and the feedback
   alt="Contribution graph"
 />
 
-<!--
-  Snake animation — enable after adding the Platane/snk GitHub Action
-  (.github/workflows/snake.yml). Until then it 404s, so it's commented.
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg" />
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/pranavks343/pranavks343/output/github-snake.svg" width="96%" />
 </picture>
--->
 
 </div>
 
@@ -520,7 +528,7 @@ Agent workflows with measurable tool use.
 
 ### Looking For
 
-Quantum, AI, research engineering, and serious product work.
+Roles in **Quantum Computing**, **AI / ML Engineering**, **Backend Engineering**, or **Cloud & DevOps**.
 
 </td>
 </tr>
@@ -546,7 +554,7 @@ Quantum, AI, research engineering, and serious product work.
 
 ### Build With Me
 
-If you are working on quantum optimization, agentic AI, intelligent infrastructure, or a research idea that deserves production execution, I want to hear about it.
+If you are hiring for **quantum computing**, **AI / ML engineering**, **backend engineering**, or **cloud & DevOps** — or if you are working on agentic AI, intelligent infrastructure, or a research idea that deserves production execution — I want to hear about it.
 
 <sub><i>I usually reply within 24 hours.</i></sub>
 
